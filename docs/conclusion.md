@@ -18,7 +18,7 @@ developers shows no signs of slowing down.
 
 * Blizzard Bans 30,000 from WoW - talk / random - kirupaForum. (n.d.). Retrieved September 10, 2024, from https://forum.kirupa.com/t/blizzard-bans-30-000-from-wow/190579
 
-* [Bot] Healbot AI. (n.d.). Retrieved June 12, 2024, from https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/149954-bot-healbot-ai.html
+* Healbot AI. (n.d.). Retrieved June 12, 2024, from https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/149954-bot-healbot-ai.html
 
 * Box Phone Farm Click Farm - Motherboard Box. (n.d.). Retrieved August 3, 2024, from https://phonefarm.some3c.com/motherboard-box
 
@@ -28,7 +28,7 @@ developers shows no signs of slowing down.
 
 * L2: Game Assistant (Cron 1) - Scripts and Functions - AutoHotkey Community. (n.d.). Retrieved August 12, 2024, from https://www.autohotkey.com/board/topic/6106-l2-game-assistant-cron-1/
 
-* Runescape bot nuking event bans 1.5 million bots in one day | PC Gamer. (n.d.). Retrieved September 2, 2024, from https://www.pcgamer.com/runescape-bot-nuking-event-bans-1-5-million-bots-in-one-day/
+* Runescape bot nuking event bans 1.5 million bots in one day, PC Gamer. (n.d.). Retrieved September 2, 2024, from https://www.pcgamer.com/runescape-bot-nuking-event-bans-1-5-million-bots-in-one-day/
 
 * Speed Demos Archive. (n.d.). Retrieved September 2, 2024, from https://speeddemosarchive.com/
 
